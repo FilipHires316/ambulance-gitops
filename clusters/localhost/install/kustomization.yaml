@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/xhires-ambulance-ufe
+
+components:
+- ../../../components/version-developers
