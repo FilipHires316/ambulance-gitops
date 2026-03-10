@@ -6,7 +6,11 @@ spec:
   microFrontend: xhires-ambulance-ufe
   element: xhires-ambulance-wl-app
   attributes:
-    - name: base-path
+  - name: api-base
+      value: http://localhost:6000/api
+  - name: ambulance-id
+      value: bobulova
+  - name: base-path
       value: ./xhires-ambulance-wl/
   displayRules:
     - allOf:
