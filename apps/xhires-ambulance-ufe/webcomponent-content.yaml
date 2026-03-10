@@ -4,7 +4,10 @@ metadata:
   name: xhires-ambulance-ufe-content
 spec:
   microFrontend: xhires-ambulance-ufe
-  element: xhires-ambulance-wl-list
+  element: xhires-ambulance-wl-app
+  attributes:
+    - name: base-path
+      value: ./xhires-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
