@@ -7,11 +7,11 @@ spec:
   element: xhires-ambulance-wl-app
   attributes:
   - name: api-base
-      value: http://localhost:5000/api
+    value: http://localhost:5000/api
   - name: ambulance-id
-      value: bobulova
+    value: bobulova
   - name: base-path
-      value: ./xhires-ambulance-wl/
+    value: ./xhires-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
