@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: dastan16/ambulance-ufe
   newName: dastan16/ambulance-ufe
-  newTag: 1.1.0
+  newTag: 1.1.1
 - name: dastan16/ambulance-wl-webapi
   newName: dastan16/ambulance-wl-webapi
-  newTag: 1.1.0
+  newTag: 1.1.1
