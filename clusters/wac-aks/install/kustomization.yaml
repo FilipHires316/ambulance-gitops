@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/xhires-ambulance-ufe
+- ../../../apps/xhires-ambulance-webapi
 
 
 components:
