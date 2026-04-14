@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: xhires-ambulance-wl
+spec:
+  title: "Zoznam čakajúcich xhires"
+  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "xhires"
+  azureLink: "https://xhires-ambulance-gtbre0bkdgbgd5em.westeurope-01.azurewebsites.net/"
+  frontendRepoUrl: "https://github.com/FilipHires316/ambulance-ufe"
+  backendRepoUrl: "https://github.com/FilipHires316/ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/FilipHires316/ambulance-gitops"
